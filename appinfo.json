@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jsternfield@hotmail.com",
+    "longName": "Tetris Gameboy",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tetris Gameboy",
+    "uuid": "0feb3e61-85a4-49e5-afcc-fd60016fd87b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
