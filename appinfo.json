@@ -1,16 +1,26 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "configurable"
     ],
-    "companyName": "jsternfield@hotmail.com",
+    "companyName": "FNA",
     "longName": "Tetris Gameboy",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/Tetris.ttf",
+                "name": "RESOURCE_ID_TETRIS_24",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Tetris Gameboy",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "0feb3e61-85a4-49e5-afcc-fd60016fd87b",
     "versionLabel": "1.0",
     "watchapp": {
